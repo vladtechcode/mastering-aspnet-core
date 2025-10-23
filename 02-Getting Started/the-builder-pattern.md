@@ -1,11 +1,3 @@
----
-id: kitmjo75kpyaicerlw94q8r
-title: The Builder Pattern
-desc: ''
-updated: 1759462166993
-created: 1759459493808
----
-
 The Builder Pattern is a design pattern that separates the construction of a complex object from its representation. It allows you to construct objects step-by-step, giving you fine-grained control over the construction process.
 Think of building a house:
 

@@ -19,17 +19,17 @@ These are **completely separate** threads doing **completely different jobs**.
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    YOUR APPLICATION                      │
+│                    YOUR APPLICATION                     │
 ├─────────────────────────────────────────────────────────┤
-│                                                          │
+│                                                         │
 │  Main Thread (Console/Entry Point)                      │
 │  ┌────────────────────────────────────────┐             │
 │  │  app.Run() ← BLOCKED HERE              │             │
 │  │  Waiting for shutdown signal...        │             │
 │  └────────────────────────────────────────┘             │
-│                                                          │
+│                                                         │
 │  ─────────────────────────────────────────────────────  │
-│                                                          │
+│                                                         │
 │  Kestrel Web Server (Thread Pool)                       │
 │  ┌────────────────────────────────────────┐             │
 │  │  Thread 1 → Handling Request A         │             │
@@ -39,7 +39,7 @@ These are **completely separate** threads doing **completely different jobs**.
 │  │  Thread 5 → Idle (waiting)             │             │
 │  │  ... (grows as needed)                 │             │
 │  └────────────────────────────────────────┘             │
-│                                                          │
+│                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
 

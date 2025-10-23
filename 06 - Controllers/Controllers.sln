@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllersExample", "ControllersExample\ControllersExample.csproj", "{7369ECD8-C96B-402C-A7F2-A7D6BE581048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IActionResultExamples", "IActionResultExamples\IActionResultExamples.csproj", "{E61678B9-ECCD-49C7-AB30-B3D37EC91161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusCodeExample", "StatusCodeExample\StatusCodeExample.csproj", "{47AAB257-F198-4964-AFBE-1C53219D8C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7369ECD8-C96B-402C-A7F2-A7D6BE581048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7369ECD8-C96B-402C-A7F2-A7D6BE581048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7369ECD8-C96B-402C-A7F2-A7D6BE581048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7369ECD8-C96B-402C-A7F2-A7D6BE581048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E61678B9-ECCD-49C7-AB30-B3D37EC91161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61678B9-ECCD-49C7-AB30-B3D37EC91161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61678B9-ECCD-49C7-AB30-B3D37EC91161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61678B9-ECCD-49C7-AB30-B3D37EC91161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AAB257-F198-4964-AFBE-1C53219D8C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AAB257-F198-4964-AFBE-1C53219D8C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AAB257-F198-4964-AFBE-1C53219D8C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AAB257-F198-4964-AFBE-1C53219D8C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,10 +1,3 @@
----
-id: mzspqifj1q206v8iregm0ck
-title: Introduction to Aspnet Core
-desc: ''
-updated: 1759477634951
-created: 1759431302785
----
 
 # ASP.NET Core Fundamentals
 

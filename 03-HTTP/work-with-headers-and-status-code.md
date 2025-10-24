@@ -1,11 +1,3 @@
----
-id: n48uqzaxuvcxgc1d1vwd639
-title: Work with Headers and Status Code
-desc: ''
-updated: 1759685272670
-created: 1759676304212
----
-
 ```c#
 WebApplicationBuilder builder = Webapplication.Builder(args);
 WebApplication app = builder.Build()

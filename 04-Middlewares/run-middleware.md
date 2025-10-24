@@ -1,15 +1,3 @@
----
-id: z8n4lquzb4cegrxb4k70hwp
-title: Terminal Middleware app.Run()
-desc: ''
-updated: 1759772722937
-created: 1759725561290
----
-
-Of course, here is the information formatted in markdown.
-
------
-
 The `app.Run()` method is a **terminal middleware** in ASP.NET Core's request pipeline. It's used to add middleware that handles requests but does not call the next middleware in the pipeline—it terminates the chain.
 
 ## Key Characteristics

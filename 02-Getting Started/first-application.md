@@ -1,10 +1,3 @@
----
-id: 7k0alt6akelf1b57u0c3p0z
-title: First Application
-desc: ''
-updated: 1759469040899
-created: 1759458549061
----
 # ASP.NET Core Program.cs Boilerplate Code Explanation
 
 This is the minimal hosting model introduced in .NET 6, which greatly simplifies ASP.NET Core applications. Let's break down each line:

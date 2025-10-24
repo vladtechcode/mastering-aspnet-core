@@ -1,10 +1,3 @@
----
-id: 7asyfqibnh8wwr00pcgkioj
-title: Kestrel and Other Servers
-desc: ''
-updated: 1759471141418
-created: 1759469534245
----
 # ASP.NET Core Web Application Hosting Architecture
 
 Let me break down how these components work together in ASP.NET Core web applications.

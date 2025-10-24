@@ -1,11 +1,3 @@
----
-id: emsb80eu4th1tkt7848f6ek
-title: HTPP Protocol
-desc: ''
-updated: 1759481231139
-created: 1759478353208
----
-
 HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. It's an application-layer protocol that defines how messages are formatted and transmitted between web browsers and servers.
 
 ## How HTTP Works

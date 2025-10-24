@@ -1,11 +1,3 @@
----
-id: cm495np8rkxtd0kqb7czuzh
-title: launchSettings-json-file
-desc: ''
-updated: 1759473427939
-created: 1759471444617
----
-
 # launchSettings.json in ASP.NET Core
 
 `launchSettings.json` is a configuration file used only during local development in ASP.NET Core projects. It controls how your application launches when you run it from Visual Studio, Visual Studio Code, or the `dotnet run` command.

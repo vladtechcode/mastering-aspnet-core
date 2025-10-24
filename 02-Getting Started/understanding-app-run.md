@@ -1,5 +1,3 @@
-
-
 ## How `app.Run()` Works Under the Hood
 
 ### The Blocking Mechanism

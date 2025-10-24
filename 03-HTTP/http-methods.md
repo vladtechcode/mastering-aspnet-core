@@ -1,11 +1,3 @@
----
-id: azgavn9ki1gnwmgx3x3dvpi
-title: HTTP Methods
-desc: ''
-updated: 1759481566650
-created: 1759478937866
----
-
 ## HTTP Methods (Verbs)
 HTTP methods define the action you want to perform on a resource. Think of them as verbs in a sentence where the URL is the noun. Here are the main methods:
 

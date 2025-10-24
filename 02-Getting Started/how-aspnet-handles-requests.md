@@ -1,10 +1,3 @@
----
-id: vks2a1hiaq0yd7j7jgjktbe
-title: How Aspnet Handles Requests
-desc: ''
-updated: 1759468906294
-created: 1759468897996
----
 # How ASP.NET Core Handles Requests While app.Run() Blocks the Main Thread
 
 This is one of the most common points of confusion for beginners! Let's demystify how your application can handle thousands of concurrent requests even though `app.Run()` blocks the main thread.

@@ -1,12 +1,3 @@
----
-id: acgaru10detr741w0p1aopu
-title: Questions
-desc: ''
-updated: 1759478123537
-created: 1759430061592
----
-
-
 ## Section 1 - Introduction
 
 ### What is ASP.NET Core?

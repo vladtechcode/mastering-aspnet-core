@@ -1,11 +1,3 @@
----
-id: vnak459f2sczn29muy57qr0
-title: CLI Guide
-desc: ''
-updated: 1759436701420
-created: 1759436675948
----
-
 ## Installation
 
 ### Windows

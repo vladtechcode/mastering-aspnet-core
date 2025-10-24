@@ -1,11 +1,3 @@
----
-id: aa22op8u7zqi7c9rhlorgdq
-title: Bash Commands
-desc: ''
-updated: 1759435874080
-created: 1759435846528
----
-
 ## Basic Navigation
 
 ```bash

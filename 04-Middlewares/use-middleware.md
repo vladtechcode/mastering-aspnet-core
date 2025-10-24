@@ -1,10 +1,3 @@
----
-id: iitg2nu84eba9rrr1o2l5ti
-title: Inline Middleware app.Use()
-desc: ''
-updated: 1759767590446
-created: 1759767590446
----
 # The app.Use() Method in ASP.NET Core
 
 The `app.Use()` method is a fundamental part of ASP.NET Core's middleware pipeline. It allows you to add custom middleware components that can process HTTP requests and responses.

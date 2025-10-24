@@ -1,6 +1,5 @@
 ﻿# Endpoint Selection Order
 
-
 > URL template with more segments
 > - e.g: "a/b/c/d" is higher than "a/b/c"
 

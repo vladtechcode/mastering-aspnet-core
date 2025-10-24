@@ -1,10 +1,3 @@
----
-id: wx7c5dw7w18getspk7h61lq
-title: The Middleware Pattern
-desc: ''
-updated: 1759685887603
-created: 1759685737296
----
 ## The Middleware Pattern: A Processing Pipeline
 
 The **middleware pattern** is a software design pattern where you create a **chain of processing units** (middleware functions) that handle requests or data in sequence. This approach provides a clean, modular way to separate concerns and manage the flow of data or execution.

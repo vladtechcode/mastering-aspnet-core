@@ -1,10 +1,3 @@
----
-id: 3frg7mouaewtz382k2425zs
-title: Net CLI Guide
-desc: ''
-updated: 1759436010741
-created: 1759435339694
----
 ## Initial Setup
 
 ### Required Extensions

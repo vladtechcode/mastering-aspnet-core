@@ -1,10 +1,3 @@
----
-id: shg3e618yjhjf9bwczvni9k
-title: RESTful and SOAP APIs Principles
-desc: ''
-updated: 1759511547050
-created: 1759485743790
----
 # RESTful and SOAP APIs
 
 Let me explain these two major API architectural styles, their principles, differences, and when to use each.

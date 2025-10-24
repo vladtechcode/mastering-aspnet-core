@@ -1,11 +1,3 @@
----
-id: 5xwtqnarrmafzj6bpbfr9zy
-title: Content Type Deep Dive
-desc: ''
-updated: 1759484975112
-created: 1759481208769
----
-
 # Content-Type Deep Dive
 
 The **Content-Type** header tells the server what format the request body is in, so it knows how to parse it.  

@@ -1,11 +1,3 @@
----
-id: erq2xzhbfnwcjp1us15p1wy
-title: Status Code and Headers
-desc: ''
-updated: 1759482076397
-created: 1759479629063
----
-
  ## 🚦 HTTP Status Codes
 **HTTP status codes** are three-digit numbers the server sends back to the client, indicating the result of the request. They're grouped into five categories.
 

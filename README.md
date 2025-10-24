@@ -7,5 +7,4 @@
 - [Routing](05-Routing/README.md)
 - [Controllers](06-Controllers/README.md)
 - [Interview Questions](interview-questions.md)
-
-[Hello](01 - Introduction/framework.aspnet-core.introduction.first-application.md)
+ 

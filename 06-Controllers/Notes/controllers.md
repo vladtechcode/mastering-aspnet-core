@@ -1,7 +1,5 @@
 # Controllers
 
-Of course. Let's break down how controllers work in ASP.NET Core. It's a fundamental concept in the Model-View-Controller (MVC) design pattern that the framework is built upon.
-
 ### The High-Level Analogy: A Restaurant Manager
 
 Think of a controller as the **manager of a restaurant**.

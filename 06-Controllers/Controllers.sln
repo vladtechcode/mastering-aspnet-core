@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IActionResultExamples", "IA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusCodeExample", "StatusCodeExample\StatusCodeExample.csproj", "{47AAB257-F198-4964-AFBE-1C53219D8C81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedirectResultExample", "RedirectResultExample\RedirectResultExample.csproj", "{043BA761-AFF1-4DCF-B619-F5AE51BF3604}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{47AAB257-F198-4964-AFBE-1C53219D8C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47AAB257-F198-4964-AFBE-1C53219D8C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47AAB257-F198-4964-AFBE-1C53219D8C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043BA761-AFF1-4DCF-B619-F5AE51BF3604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043BA761-AFF1-4DCF-B619-F5AE51BF3604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043BA761-AFF1-4DCF-B619-F5AE51BF3604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043BA761-AFF1-4DCF-B619-F5AE51BF3604}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
